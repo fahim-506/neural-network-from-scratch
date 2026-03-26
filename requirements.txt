@@ -3,3 +3,5 @@ numpy
 nnfs
 matplotlib
 tensorflow
+scikit-learn
+pandas
